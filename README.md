@@ -16,4 +16,6 @@ Este repositório contém um script de shell que automatiza a configuração ini
 1. **Clone este repositório**:
    ```bash
    git clone https://github.com/Davideveloper89/script-de-pos-instalacao-fedora.git
-   cd script-de-pos-instalacao-fedora
+   cd script-de-pos-instalacao-fedorac
+   chmod +x pos_instalacao.sh
+   ./shellscript.sh
